@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I love all things Android
+🔭 I love all things Android
 - 📖 About to complete my Msc In Data Engineering, i wonder if i should call myself an Android Data Engineer.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

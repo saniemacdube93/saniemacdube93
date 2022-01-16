@@ -6,11 +6,19 @@ I am a Android & Data Scientist Enthusiast
 
 ❤️ I love all things android
 
+
+
 🧑‍🏭🌱  Currently working on Android(Kotlin + Java)
+
+
 
 📚 About to complete my Msc In Data Engineering, i wonder if i should call myself an Android Data Engineer
 
+
+
  📝 I forgot to say i love mathematics and statistics, though i really would appreciate if that love doesn't turn into a career.
+ 
+ 
 
 💬 If you wanna chat. My email is saniemacdube@gmail.com
 

@@ -3,7 +3,7 @@
 
 
 
-I am a Android & Data Scientist Enthusiast
+I am a Android Engineer
 
 ❤️ I love all things android
 

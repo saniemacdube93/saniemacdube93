@@ -12,7 +12,7 @@ I am an Android Engineer
 🧑‍🏭🌱  Currently working on Android(Kotlin + Java  )
 
 
-Spring Boot lover 🌱 ❤️‍🔥 🥰 
+ 🌱 Spring Boot lover ❤️‍🔥 🥰 
 
 
 📚 About to complete my Msc In Data Engineering, i wonder if i should call myself an Android Data Engineer
